@@ -78,7 +78,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     nWeight(0)
 {
     resize(850, 550);
-    setWindowTitle(tr("Rock N Rain") + " - " + tr("Wallet"));
+    setWindowTitle(tr("EGAME COIN") + " - " + tr("Wallet"));
     
  qApp->setStyleSheet("QMainWindow { background-color: rgb(192,192,192); background-image: url(:/images/bkg);} QToolBar > QToolButton {color:#ffffff;} QToolBar > QToolButton:checked {color:#000000;}");
     
